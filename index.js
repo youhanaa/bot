@@ -37,7 +37,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing Exorue-Online"];
+const statusMessages = ["Playing RK-Community"];
 
 
 let currentIndex = 0;
