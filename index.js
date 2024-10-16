@@ -20,7 +20,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Brave Community"];
+const statusMessages = ["Playing Brave Community", "SilkRoad Ads", "Special Services", "Powerd By zEpic"];
 
 
 let currentIndex = 0;
